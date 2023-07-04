@@ -1,4 +1,3 @@
-.bpw-from-user .bpw-chat-bubble .bpw-chat-bubble-content {
-    background-color: purple;
-    color: #fff; /* Set text color to white for contrast */
+.bpw-chat-bubble {
+  border-radius: 15px;
 }
